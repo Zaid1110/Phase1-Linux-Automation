@@ -1,4 +1,5 @@
 # Phase 1 — Linux Automation: System Health Monitor
+![Shell Lint](https://github.com/Zaid1110/Phase1-Linux-Automation/actions/workflows/lint.yml/badge.svg)
 
 **Author:** Zaid Aftab
 **Repo:** Phase1-Linux-Automation  
